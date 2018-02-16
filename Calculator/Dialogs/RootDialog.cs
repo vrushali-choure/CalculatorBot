@@ -23,6 +23,7 @@ namespace Calculator.Dialogs
             // var activity = await result as Activity;
 
             await context.PostAsync("Do you want to add or mul or div or sub or square");
+             // sample
 
             // calculate something for us to return
             // int length = (activity.Text ?? string.Empty).Length;
