@@ -22,7 +22,7 @@ namespace Calculator.Dialogs
         {
             // var activity = await result as Activity;
 
-            await context.PostAsync("Do you want to add or mul or div or sub or square");
+            await context.PostAsync("Do you want to add or mul or div or sub ");
              // sample
 
             // calculate something for us to return
